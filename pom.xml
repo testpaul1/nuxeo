@@ -68,8 +68,8 @@
     <nuxeo.java.client.version>1.14.0</nuxeo.java.client.version>
 
     <tomcat.version>2.0.89</tomcat.version>
-    <opensearch.version>1.3.16</opensearch.version>
-    <netty.version>4.1.110.Final</netty.version>
+    <opensearch.version>1.3.20</opensearch.version>
+    <netty.version>4.1.121.Final</netty.version>
     <netty.boringssl.version>1.0.65.Final</netty.boringssl.version>
     <apacheds.version>0.5.1</apacheds.version>
     <apachedshared.version>0.2.7</apachedshared.version>
@@ -82,23 +82,23 @@
     <jodreport.version>1.4.0</jodreport.version>
     <jxls.version>1.0.6-NX02</jxls.version>
     <jxls2.version>1.14.0</jxls2.version>
-    <keycloak.version>24.0.4</keycloak.version>
+    <keycloak.version>24.0.5</keycloak.version>
     <xdocreport.version>1.0.6</xdocreport.version>
-    <google.http.client.version>1.44.2</google.http.client.version>
-    <google.oauth.client.version>1.36.0</google.oauth.client.version>
+    <google.http.client.version>1.47.0</google.http.client.version>
+    <google.oauth.client.version>1.39.0</google.oauth.client.version>
     <google.api.client.version>1.35.2</google.api.client.version>
     <google.api.drive.version>v2-rev20201130-1.31.0</google.api.drive.version>
     <box.api.version>1.1.0</box.api.version>
     <selenium.version>2.53.0</selenium.version>
-    <pdfbox.version>2.0.31</pdfbox.version>
+    <pdfbox.version>2.0.36</pdfbox.version>
     <pdfbox.jbig2.version>2.99.0-NX1</pdfbox.jbig2.version>
-    <aws.version>1.12.650</aws.version>
-    <gcp.version>2.39.0</gcp.version>
+    <aws.version>1.12.797</aws.version>
+    <gcp.version>2.68.0</gcp.version>
     <jackson1.version>1.9.11</jackson1.version>
     <jackson.version>2.12.7</jackson.version>
     <jackson.bom.version>2.12.7.20240502</jackson.bom.version>
-    <bouncycastle.version>1.69</bouncycastle.version>
-    <avro.version>1.11.3</avro.version>
+    <bouncycastle.version>1.70</bouncycastle.version>
+    <avro.version>1.11.5</avro.version>
     <restlet.version>2.4.3</restlet.version>
     <jmock.version>2.13.1</jmock.version>
     <wro4j.version>1.10.1</wro4j.version>
@@ -111,7 +111,7 @@
     <org.slf4j.version>1.7.36</org.slf4j.version>
     <gatling.version>1.3.1</gatling.version>
     <gatling-plugin.version>1.3.1</gatling-plugin.version>
-    <scala.version>2.12.19</scala.version>
+    <scala.version>2.12.20</scala.version>
     <scala-logging.version>3.9.5</scala-logging.version>
     <scala-maven-plugin.version>4.9.1</scala-maven-plugin.version>
 
@@ -145,18 +145,18 @@
     </it.modules.argLine>
 
     <!-- MongoDB -->
-    <mongo.java.driver.version>4.11.2</mongo.java.driver.version>
+    <mongo.java.driver.version>4.11.5</mongo.java.driver.version>
     <quartz.mongodb.version>2.2.0-rc2</quartz.mongodb.version>
 
-    <kafka.version>3.6.1</kafka.version>
+    <kafka.version>3.9.2</kafka.version>
     <confluent.version>6.2.15</confluent.version>
     <metrics.version>5.0.0-rc3</metrics.version>
-    <amqp.client.version>5.21.0</amqp.client.version>
+    <amqp.client.version>5.25.0</amqp.client.version>
     <maven.surefire.version>2.22.2</maven.surefire.version>
     <opencensus.version>0.31.1</opencensus.version>
-    <prometheus.client.version>0.11.0</prometheus.client.version>
+    <prometheus.client.version>0.16.0</prometheus.client.version>
     <okhttp.version>4.12.0</okhttp.version>
-    <protobuf.java.version>3.25.5</protobuf.java.version>
+    <protobuf.java.version>3.25.8</protobuf.java.version>
     <opensaml.version>4.3.2</opensaml.version>
     <quartz.version>2.5.0-rc1</quartz.version>
   </properties>
